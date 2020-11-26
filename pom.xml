@@ -99,9 +99,9 @@
 				<artifactId>maven-gpg-plugin</artifactId>
 				<version>1.1</version>
 				<!-- -Dgpg.passphrase='秘钥密码'或者-Darguments='gpg.passphrase=秘钥密码' -->
-				<configuration>
-					<passphrase>Yunkun@920801</passphrase>
-				</configuration>
+<!--				<configuration>
+					<passphrase>秘钥密码</passphrase>
+				</configuration>-->
 				<executions>
 					<execution>
 						<id>sign-artifacts</id>
