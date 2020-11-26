@@ -1,0 +1,2 @@
+# plugin
+Daily utility package
